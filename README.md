@@ -1,4 +1,4 @@
-Hi 👋 My name is Ömer Atlı
+Ömer Atlı
 ==========================
 
 Frontend Developer
